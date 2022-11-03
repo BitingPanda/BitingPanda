@@ -17,11 +17,4 @@
 
 ### Github Stats 📈
 
-![Pranesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitingpanda&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=BitingPanda&theme=gruvbox&border_radius=4.5) -->
-
-#
-#
-![Pranesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitingpanda&show_icons=true&theme=gruvbox)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=BitingPanda&theme=gruvbox&border_radius=4.5) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=BitingPanda&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
