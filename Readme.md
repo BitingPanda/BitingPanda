@@ -13,8 +13,11 @@
 
 #
 #
+---
+#
+#
+### Github Stats 📈
 #
 
-### Github Stats 📈
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BitingPanda&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+&nbsp&nbsp[![GitHub Streak](https://streak-stats.demolab.com?user=BitingPanda&theme=highcontrast&date_format=j%20M%5B%20Y%5D&stroke=DDDDDD&background=000000&border=FFFFFF&ring=FFFFFF&fire=FF0000&currStreakNum=FFFFFF&sideNums=F0F0F0DF&currStreakLabel=FF0000&dates=DDDDDD&sideLabels=DDDDDD)](https://git.io/streak-stats)
