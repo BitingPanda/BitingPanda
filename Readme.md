@@ -1,4 +1,4 @@
-# Pranesh N.
+# Pranesh
 **`College Student`**
 
 
@@ -12,8 +12,10 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
 #
+#
+#
 
-### 📊 Stats
+### Github Stats 📈
 
 ![Pranesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitingpanda&show_icons=true&theme=gruvbox)
 
