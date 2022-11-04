@@ -4,12 +4,14 @@
 
 <img align="right" alt="C++" width="300" src="./Assets/ezgif.com-gif-maker.gif">
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=21&pause=4000&color=F7F7F7&background=0000006C&center=true&vCenter=true&width=175&height=30&lines=College+Student" alt="Typing SVG" /></a>
 
 
-<img alt="My Repo" title="Repositories that I own" src="https://img.shields.io/github/followers/BitingPanda?style=social"/>
-<img alt="My Repo" title="Repositories that I own" src="https://visitor-badge.glitch.me/badge?page_id=BitingPanda"/>
-
+<p align=left>
+<img alt="Followers" title="Github Followers" src="https://img.shields.io/github/followers/BitingPanda?style=social"/>
+<img alt="Visitors" title="Total Visitors" src="https://visitor-badge.glitch.me/badge?page_id=BitingPanda"/>
+</p>
 
 
 
