@@ -8,9 +8,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=21&pause=4000&color=F7F7F7&background=0000006C&center=true&vCenter=true&width=175&height=30&lines=College+Student" alt="Typing SVG" /></a>
 
 
-
+<img align=left alt="Visitors" title="Total Visitors" style="padding-right:10px;"  src="https://visitor-badge.glitch.me/badge?page_id=BitingPanda"/> 
 <img align=left alt="Followers" title="Github Followers" src="https://img.shields.io/github/followers/BitingPanda?style=social"/>
-<img align=left alt="Visitors" title="Total Visitors" src="https://visitor-badge.glitch.me/badge?page_id=BitingPanda"/>
+
 
 <br>
 <br>
