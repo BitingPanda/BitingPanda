@@ -1,5 +1,3 @@
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="./Assets/Rhombus animated.gif" />
-
 # Pranesh
 
 <img align="right" alt="C++" width="300" src="./Assets/ezgif.com-gif-maker.gif">
@@ -15,8 +13,8 @@
 <br>
 <br>
 <p align=left>
-<a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="My Repo" title="Repositories that I own" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
+<a href="https://github.com/BitingPanda?tab=repositories">
+    <img  title="Repositories that I own" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
 </a> 
 <img alt="Location" title="Where I am based" src="https://custom-icon-badges.demolab.com/badge/Bangladesh-darkgreen?style=for-the-badge&logo=location&logoColor=white&labelColor=darkred"/>
 </p>
